@@ -1,4 +1,4 @@
-# NETFLIX CLONE
+# LINKEDLN CLONE
 
 ![image](https://github.com/user-attachments/assets/d3423e16-873d-4452-81c3-0483c9bad8d1)
 
